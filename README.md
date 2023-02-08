@@ -2,7 +2,7 @@
 - 👀 I’m interested in Android, IA and Embedded Systems Development
 - 🌱 I’m currently learning Kotlin (with XML and Jetpack Compose), Python and C++
 - 💞️ I’m looking to collaborate on something that could help me to improve my coding habilities
-- 📫 How to reach me: Twitter @emisc0607
+- 📫 How to reach me: Twitter @emisc0607, LinkedIn: https://www.linkedin.com/in/francisco-emiliano-s%C3%A1nchez-callejas-1515ba233
 
 <!---
 emisc0607/emisc0607 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
