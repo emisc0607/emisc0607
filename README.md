@@ -11,8 +11,7 @@
     + VHDL
 
 - Busco colaborar en proyectos que me permitan seguir aprendiendo y mejorando mis habilidades :eyes:.
-- Como contactarme: 
-<<<<<<< Updated upstream
+- Como contactarme:
   + [Twitter: @emisc0607](https://twitter.com/EmiSC0607)
   + LinkedIn: www.linkedin.com/in/emisc0607
 <!---
