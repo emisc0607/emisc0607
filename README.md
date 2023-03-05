@@ -12,9 +12,9 @@
 
 - Busco colaborar en proyectos que me permitan seguir aprendiendo y mejorando mis habilidades :eyes:.
 - Como contactarme: 
+<<<<<<< Updated upstream
   + [Twitter: @emisc0607](https://twitter.com/EmiSC0607)
   + LinkedIn: www.linkedin.com/in/emisc0607
-
 <!---
 emisc0607/emisc0607 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
