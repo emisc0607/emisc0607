@@ -1,4 +1,4 @@
-## 👋 Hi, I’m @emisc0607
+## 👋 Hi, I’m Emiliano Sánchez (@emisc0607)
 :gear: Soy Ingeniero Electromecánico con una línea terminal en Mecatrónica, actualmente estoy estudiando una Maestría en Ciencias (Mecatrónica)
 
 - Estoy interesado en el desarrollo Android :iphone:, el desarrollo de Sistemas Embebidos :computer:, Inteligencia Artificial :robot: y el Internet of Things :signal_strength:.
@@ -7,6 +7,7 @@
     + Python
     + C
     + C++
+    + C#
     + Arduino
     + VHDL
 
